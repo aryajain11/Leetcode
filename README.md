@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryajain11/Leetcode/tree/master/0001-two-sum) |
+| [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryajain11/Leetcode/tree/master/0014-longest-common-prefix) |
+| [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -52,8 +54,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->

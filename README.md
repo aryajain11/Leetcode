@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryajain11/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryajain11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryajain11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/aryajain11/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/aryajain11/Leetcode/tree/master/0136-single-number) |
 | [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Sliding Window
 |  |

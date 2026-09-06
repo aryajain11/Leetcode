@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aryajain11/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryajain11/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryajain11/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aryajain11/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aryajain11/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryajain11/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/aryajain11/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aryajain11/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryajain11/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/aryajain11/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/aryajain11/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryajain11/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)

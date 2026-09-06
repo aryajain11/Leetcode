@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aryajain11/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryajain11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryajain11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryajain11/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aryajain11/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aryajain11/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/aryajain11/Leetcode/tree/master/0031-next-permutation) |
+| [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryajain11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

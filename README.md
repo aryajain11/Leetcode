@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aryajain11/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aryajain11/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/aryajain11/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryajain11/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryajain11/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryajain11/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
 | [1763-longest-nice-substring](https://github.com/aryajain11/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/aryajain11/Leetcode/tree/master/0217-contains-duplicate) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/aryajain11/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryajain11/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Heap (Priority Queue)
